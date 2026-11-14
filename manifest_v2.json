@@ -1,0 +1,36 @@
+{
+  "item": {
+    "id": "com.fishing.joy.band",
+    "restype": "quick_app",
+    "name": "一起来钓鱼",
+    "description": "抬腕，抛竿，等一声轻震。把整片水面装进你的小米手环 9 Pro / 10 Pro——精美场景与圆润 UI 原画一张不减，20 种鱼儿等你收进图鉴。咬钩、上鱼都有振动提醒，屏幕常亮不漏一口；金币、背包、商店、一次购买永久有效的场景入场券，钓得越久，收获越满。自动存档，随时收竿、随时续玩。不看时间，只等浮漂。 原价 ¥2.00，首发特价 ¥1.50，今天开钓。\n购买前往https://afdian.com/item/257d49ece00311f1946f5254001e7c00（手动）或者https://www.nsof.top/（自助）",
+    "preview": [
+      "media/Shell++_2 (1).png",
+      "media/IMG_20261114_163103.png",
+      "media/Shell++_1 (2).png",
+      "media/fishing-promo_aigc_label (1).png"
+    ],
+    "icon": "media/IMG_20261114_170821.png",
+    "cover": "media/IMG_20261114_170927.png",
+    "author": [
+      {
+        "name": "z_name",
+        "bindABAccount": true
+      }
+    ]
+  },
+  "links": [],
+  "downloads": {
+    "xmb9p": {
+      "version": "1.2.0",
+      "file_name": "downloads/com.fishing.joy.band.release.1.2.0.rpk",
+      "versionCode": 3
+    },
+    "xmb10p": {
+      "version": "1.2.0",
+      "file_name": "downloads/com.fishing.joy.band.release.1.2.0.rpk",
+      "versionCode": 3
+    }
+  },
+  "ext": {}
+}
